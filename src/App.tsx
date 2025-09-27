@@ -16,7 +16,7 @@ import CrossBrandComparison from "./pages/CrossBrandComparison";
 import Simulator from "./pages/Simulator";
 import Leaderboard from "./pages/Leaderboard";
 import NegotiationPlaybook from "./pages/NegotiationPlaybook";
-import NotFound from "./pages/NotFound";
+import NotFound from "./pages/AutoSummary";
 
 const queryClient = new QueryClient();
 
